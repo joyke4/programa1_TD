@@ -1,0 +1,24 @@
+---
+title: "Git ejemplo 2"
+author: "Joyce KEMENI"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#calculo el area de un ciculo
+```{r}
+r<-2
+A<-pi*r^2
+A
+
+```
+```{r}
+r<-63sessioninf
+A<-pi*r^2
+A
+```
+data
